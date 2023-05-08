@@ -2,6 +2,9 @@
 #include<stdio.h>
 int main()
 {
-    printf("hellow");
+    for(int i=1;i<=5;i++)
+    {
+    printf("hellow\n");
+    }
     return 0;
 }
